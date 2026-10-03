@@ -45,6 +45,23 @@ The app opens in your browser at `http://localhost:8501`.
 
 On Windows you can also double-click `run.bat`.
 
+## Data Format
+
+Your CSV or Excel file should have these columns:
+
+| date       | category      | description     | amount | type    |
+|------------|---------------|-----------------|--------|---------|
+| 2026-07-01 | Salary        | July salary     | 52000  | income  |
+| 2026-07-02 | Rent          | July rent       | 15000  | expense |
+| 2026-07-04 | Groceries     | BigBasket order | 2100   | expense |
+| 2026-07-06 | Subscriptions | Netflix         | 500    | expense |
+
+- `date`: in `YYYY-MM-DD` format
+- `amount`: a positive number
+- `type`: either `income` or `expense`
+
+See `sample_data/seed_data.csv` for a full example.
+
 ## Try It With Sample Data
 
 Upload any file from the `sample_data/` folder (for example `seed_data.csv`) to see the dashboard in action.
