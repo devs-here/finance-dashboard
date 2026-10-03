@@ -1,0 +1,25 @@
+date,category,description,amount,type
+2026-07-01,Salary,July salary,52000,income
+2026-07-02,Rent,July rent,15000,expense
+2026-07-04,Groceries,BigBasket order,2100,expense
+2026-07-06,Subscriptions,Netflix,500,expense
+2026-07-08,Transport,Fuel,1200,expense
+2026-07-10,Food,Swiggy order,750,expense
+2026-07-15,Freelance,Logo design project,7000,income
+2026-07-18,Entertainment,Movie night,900,expense
+2026-07-22,Groceries,Local market,1500,expense
+2026-07-28,Subscriptions,Spotify,150,expense
+2026-08-01,Salary,August salary,52000,income
+2026-08-02,Rent,August rent,15000,expense
+2026-08-05,Groceries,BigBasket order,2300,expense
+2026-08-07,Transport,Cab rides,950,expense
+2026-08-09,Food,Zomato order,650,expense
+2026-08-12,Entertainment,Concert ticket,2000,expense
+2026-08-16,Freelance,Website project,9500,income
+2026-08-20,Subscriptions,Netflix,500,expense
+2026-08-24,Food,Cafe outing,450,expense
+2026-08-29,Transport,Fuel,1300,expense
+2026-09-01,Salary,September salary,52000,income
+2026-09-02,Rent,September rent,15000,expense
+2026-09-05,Groceries,BigBasket order,2200,expense
+2026-09-10,Freelance,Logo design project,8000,income

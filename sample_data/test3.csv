@@ -1,0 +1,11 @@
+date,category,description,amount,type
+2026-10-01,Salary,October salary,45000,income
+2026-10-02,Rent,October rent,15000,expense
+2026-10-03,Groceries,Monthly grocery haul,3200,expense
+2026-10-04,Transport,Metro card recharge,500,expense
+2026-10-06,Freelance,Logo design project,6000,income
+2026-10-08,Food,Dinner with friends,1250,expense
+2026-10-10,Entertainment,Movie tickets,700,expense
+2026-10-12,Subscriptions,Music streaming,199,expense
+2026-10-14,Utilities,Electricity bill,1800,expense
+2026-10-16,Health,Pharmacy,650,expense
