@@ -2,6 +2,8 @@
 
 A simple personal finance dashboard built with **Streamlit**. Upload your income and expense data (CSV or Excel) and see where your money goes.
 
+🚀 **Live Demo:** [Open the app](https://finance-dashboard-gaurav.streamlit.app)
+
 ## Features
 
 - Upload your own data as **CSV or Excel**
@@ -59,7 +61,10 @@ finance-dashboard/
 
 ## Screenshots
 
-_Add a screenshot of the dashboard here._
+
+<img width="1808" height="853" alt="Screenshot 2026-10-03 172545" src="https://github.com/user-attachments/assets/e550a35e-3b46-4651-a843-4bdb8e748a28" />
+<img width="1782" height="682" alt="Screenshot 2026-10-03 172558" src="https://github.com/user-attachments/assets/a6426d3a-aadf-4f17-8119-1238a6fb1bf0" />
+
 
 ## Author
 
